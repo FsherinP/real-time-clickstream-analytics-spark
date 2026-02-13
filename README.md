@@ -12,10 +12,10 @@ Unlike basic aggregation demos, this engine implements **stateful stream process
 
 ### Key Learning Objectives
 
-* **Event-time systems:** Handling late-arriving data using watermarks.
-* **Stateful Processing:** Using `mapGroupsWithState` for complex behavioral funnels.
-* **Schema Enforcement:** Parsing deeply nested JSON in high-throughput streams.
-* **Product Analytics:** Driving DAU and retention metrics from raw event logs.
+1. **Event-time systems:** Handling late-arriving data using watermarks.
+2. **Stateful Processing:** Using `mapGroupsWithState` for complex behavioral funnels.
+3. **Schema Enforcement:** Parsing deeply nested JSON in high-throughput streams.
+4. **Product Analytics:** Driving DAU and retention metrics from raw event logs.
 
 ---
 
