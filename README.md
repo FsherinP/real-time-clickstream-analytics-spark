@@ -10,7 +10,7 @@ This project implements a production-grade real-time telemetry analytics pipelin
 
 Unlike basic aggregation demos, this engine implements **stateful stream processing** to track user journeys and session lifecycles in real-time.
 
-### Key Learning Objectives:
+### Key Learning Objectives
 
 * **Event-time systems:** Handling late-arriving data using watermarks.
 * **Stateful Processing:** Using `mapGroupsWithState` for complex behavioral funnels.
